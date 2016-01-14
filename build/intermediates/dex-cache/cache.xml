@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projekte\Fipp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Projekte\Fipp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_92ffa2498a49756d2af1da0ef1774525ea3659c1.jar" />
+    </item>
+    <item
+        jar="D:\Projekte\Fipp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Projekte\Fipp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_387a52b1ba629c0056d68b7125a846a04c3c0034.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Projekte\Fipp\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_160e21806fe4fcbe2b20c34d1bbde421f69a17ae.jar" />
+    </item>
+    <item
+        jar="D:\Projekte\Fipp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Projekte\Fipp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_44b30bc5c5da5ab04ac09270271f67f7181b507a.jar" />
+    </item>
+    <item
+        jar="D:\Projekte\Fipp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Projekte\Fipp\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_ae88b3ae860cae554b52ed4c51f8057b1c34f8cd.jar" />
+    </item>
+    <item
+        jar="D:\Projekte\Fipp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Projekte\Fipp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_846968b418b32f6be2dfca858da761630b4bb413.jar" />
+    </item>
+
+</items>
